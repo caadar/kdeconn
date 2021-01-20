@@ -1,2 +1,2 @@
-# kdeconn.el
+# kdeconn
 KDE Connect helper functions
